@@ -91,7 +91,11 @@ Wiring of the servo motors of the robotic arm on the breadboard
 
 
 
-https://user-images.githubusercontent.com/67556543/181963331-fbc706de-e95a-470f-892f-9ba6b63a016c.mp4
+
+
+https://user-images.githubusercontent.com/67556543/181965424-20d9edde-1335-4046-b4d3-abac07076d19.mp4
+
+
 
 
 
