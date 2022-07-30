@@ -86,7 +86,12 @@ Wiring of the servo motors of the robotic arm on the breadboard
 
 ## Program Output From Computer
 
-![image](https://user-images.githubusercontent.com/67556543/181957939-67a2af7d-6541-466a-8f66-1e07912d3bd6.png)
+![Adsız](https://user-images.githubusercontent.com/67556543/181961174-21b9744a-dc26-4c78-af9b-566c5ef56861.png)
+
+
+
+
+https://user-images.githubusercontent.com/67556543/181963331-fbc706de-e95a-470f-892f-9ba6b63a016c.mp4
 
 
 
